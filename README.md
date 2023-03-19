@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/104753678/226170336-4453ea4a-e3d8-4cc7
 
 2. Custom Designs, ButtonStyles, View Modifiers, Animations and Using Binding/State for updating views/Data.
 
-![CustomShaps](https://user-images.githubusercontent.com/104753678/226170175-b7148a7f-3974-4f08-9929-64460d79fccf.png)
+![CustomShaps](https://user-images.githubusercontent.com/104753678/226170175-b7148a7f-3974-4f08-9929-64460d79fccf.png width="200" height="400")
 
 
 3. UIViewRepresentable for creating UITextField of UIkit and used in SwiftUI.
