@@ -2,7 +2,10 @@
 
 Complete Demo Video
 
-<img width="871" alt="Screenshot 2023-03-19 at 3 57 55 PM" src="https://user-images.githubusercontent.com/104753678/226170185-28e20871-0d6d-4ea3-9e15-0b6c2f40dd5e.png">
+
+https://user-images.githubusercontent.com/104753678/226170336-4453ea4a-e3d8-4cc7-b3bf-585eacd6f373.mp4
+
+
 
 
 1. Twitter Home Screen Design , API call with MVVM, State Object, Published, and ObservedObject
