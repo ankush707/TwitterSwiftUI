@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/104753678/226170336-4453ea4a-e3d8-4cc7
 
 1. Twitter Home Screen Design , API call with MVVM, State Object, Published, and ObservedObject
 
-![HomePage]<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/104753678/226169901-aadcb614-23b8-4228-81e0-8e273398ef11.png)" width="100" height="400">
+![HomePage]<img src="https://your-image-url.type](https://user-images.githubusercontent.com/104753678/226169901-aadcb614-23b8-4228-81e0-8e273398ef11.png)" width="100" height="400">
 
 2. Custom Designs, ButtonStyles, View Modifiers, Animations and Using Binding/State for updating views/Data.
 
