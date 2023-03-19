@@ -1,0 +1,223 @@
+{
+    "success": true,
+    "data": [
+        {
+          "innerDetails": {
+              "comments": "444",
+              "retweets": "456",
+              "likes": "4567",
+              "trending": "987k"
+            },
+          "promoted": [
+             
+          ],
+          "promotedLink": "",
+          "promotedDescription": "",
+          "postedImage": [
+          ],
+          "isPromoted": false,
+          "followedBy": "Naren and Narander Modi follow",
+          "showFollowedBy": true,
+          "postedTime": "5h",
+          "views": "501k",
+          "discription": "An iOS developer is responsible for developing applications for mobile devices powered by Apple's iOS operating system. Ideally, a good iOS developer is proficient with one of the two programming languages for this platform: Objective-C or Swift.",
+          "userImage": "u1",
+          "userFullName": "Ankush Sharma",
+          "userName": "@ankush",
+          "isVerified": true,
+          "id": "u1"
+        },
+        
+        {
+          "innerDetails": {
+              "comments": "345",
+              "retweets": "356",
+              "likes": "2534",
+              "trending": "187k"
+            },
+          "promoted": [
+             
+          ],
+          "promotedLink": "",
+          "promotedDescription": "",
+          "postedImage": [{
+              
+                  "id": "p2",
+                  "pImage": "post2"
+              
+          }],
+          "isPromoted": false,
+          "followedBy": "Ankush and Sachin follow",
+          "showFollowedBy": true,
+          "postedTime": "5h",
+          "views": "771k",
+          "discription": "Anjali Devi was an Indian actress, model and producer in Telugu and Tamil films. She was well known for her role as the Devi Sita in Lava Kusa",
+          "userImage": "u2",
+          "userFullName": "Ankita Thankur",
+          "userName": "@ankita",
+          "isVerified": false,
+          "id": "u2"
+        },
+        
+        {
+          "innerDetails": {
+              "comments": "123",
+              "retweets": "356",
+              "likes": "2567",
+              "trending": "107k"
+            },
+          "promoted": [
+              {
+                  "id": "p1",
+                  "pImage": "iphone1"
+              },{
+                  "id": "p2",
+                  "pImage": "iphone2"
+              },{
+                  "id": "p3",
+                  "pImage": "iphone3"
+              },{
+                  "id": "p4",
+                  "pImage": "iphone4"
+              }
+          ],
+          "postedImage": [{
+              
+                  "id": "p3",
+                  "pImage": "post3"
+              
+          }],
+          "promotedLink": "www.apple.com",
+          "promotedDescription": "Upgrade to iPhone 14 Pro now",
+          "isPromoted": true,
+          "followedBy": "",
+          "showFollowedBy": false,
+          "postedTime": "2h",
+          "views": "301k",
+          "discription": "The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface. The iPhone runs the iOS operating system, and in 2021 when the iPhone 13 was introduced, it offered up to 1 TB of storage and a 12-megapixel camera.",
+          "userImage": "u3",
+          "userFullName": "Apple",
+          "userName": "@apple",
+          "isVerified": true,
+          "id": "u3"
+        },
+        
+        {
+          "innerDetails": {
+              "comments": "2315",
+              "retweets": "4526",
+              "likes": "3337",
+              "trending": "11k"
+            },
+          "promoted": [
+             
+          ],
+          "promotedLink": "",
+          "promotedDescription": "",
+          "postedImage": [{
+              
+                  "id": "p4",
+                  "pImage": "post4"
+              
+          }],
+          "isPromoted": false,
+          "followedBy": "Kiran, Arjun and Naranda follow",
+          "showFollowedBy": true,
+          "postedTime": "13min",
+          "views": "1k",
+          "discription": "Shardul Thakur ties the knot with Mittali Parulkar, first photos emerge of grand wedding ceremony - see pics.",
+          "userImage": "u4",
+          "userFullName": "Nidhi Gupta",
+          "userName": "@gupta",
+          "id": "u4"
+        },
+        
+        {
+          "innerDetails": {
+              "comments": "4424",
+              "retweets": "4526",
+              "likes": "14567",
+              "trending": "387k"
+            },
+          "promoted": [
+             
+          ],
+          "promotedLink": "",
+          "promotedDescription": "",
+          "postedImage": [
+          ],
+          "isPromoted": false,
+          "followedBy": "Naren and Narander Modi follow",
+          "showFollowedBy": true,
+          "postedTime": "3h",
+          "views": "222k",
+          "discription": "I am waiting for the code review",
+          "userImage": "u1",
+          "userFullName": "Ankush Sharma",
+          "userName": "@ankush",
+          "isVerified": true,
+          "id": "u5"
+        },
+        
+        {
+          "innerDetails": {
+              "comments": "7715",
+              "retweets": "2226",
+              "likes": "2337",
+              "trending": "141k"
+            },
+          "promoted": [
+             
+          ],
+          "promotedLink": "",
+          "promotedDescription": "",
+          "postedImage": [{
+              
+                  "id": "p5",
+                  "pImage": "post5"
+              
+          }],
+          "isPromoted": false,
+          "followedBy": "Sachin, Kohali and param follow",
+          "showFollowedBy": true,
+          "postedTime": "44min",
+          "views": "133k",
+          "discription": "The 1731 'Baltic' is the highlight of auction house Tarisio's March edition and is expected to fetch more than $10 million.\n The musical instrument is made of exemplary tonewood and is covered in a deep red-brown varnish.\nRead more at: https://economictimes.indiatimes.com/magazines/panache/rare-1731-violin-baltic-up-for-auction-at-new-york-expected-to-fetch-10-mn/articleshow/98272713.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst.",
+          "userImage": "u5",
+          "userFullName": "Mr. john Wick",
+          "userName": "@volien",
+          "isVerified": false,
+          "id": "u6"
+        },
+        {
+          "innerDetails": {
+              "comments": "1315",
+              "retweets": "2526",
+              "likes": "337",
+              "trending": "112k"
+            },
+          "promoted": [
+             
+          ],
+          "promotedLink": "",
+          "promotedDescription": "",
+          "postedImage": [{
+              
+                  "id": "p6",
+                  "pImage": "post6"
+              
+          }],
+          "isPromoted": false,
+          "followedBy": "Kiran, Arjun and Naranda follow",
+          "showFollowedBy": true,
+          "postedTime": "2hrs",
+          "views": "133k",
+          "discription": "James Bond is a fictional character created by British novelist Ian Fleming in 1953. A British secret agent working for MI6 under the codename 007, Bond has been portrayed on film in twenty-seven.",
+          "userImage": "u4",
+          "userFullName": "Nidhi Gupta",
+          "userName": "@gupta",
+          "isVerified": false,
+          "id": "u7"
+        },
+      ]
+}
